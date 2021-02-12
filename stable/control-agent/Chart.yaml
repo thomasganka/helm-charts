@@ -11,7 +11,7 @@ home: https://streamsets.com
 sources:
 - https://github.com/streamsets/helm-charts/tree/master/incubating/control-agent
 maintainers:
-- name: kunickiaj
-  email: adam@streamsets.com
+- name: thomasganka
+  email: thomas.ganka@streamsets.com
 engine: gotpl
-icon: https://streamsets.com/wp-content/uploads/2016/08/StreamSets-logo-small.png
+icon: https://github.com/streamsets/datacollector/raw/master/basic-lib/src/main/resources/sdcipc.png
